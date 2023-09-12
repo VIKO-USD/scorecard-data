@@ -1,0 +1,36 @@
+# required
+SDG_GOAL: >-
+  global_goals.1-title
+
+# required
+SDG_TARGET: >-
+  global_targets.1-4-title
+
+# required
+SDG_INDICATOR: >-
+  global_indicators.1-4-1-title
+
+# optional
+SDG_INDICATOR_INFO: >-
+
+# optional
+CONTACT_ORGANISATION: >-
+  Viko
+
+# optional
+ORGANISATION_UNIT: >-
+
+# optional
+STAT_CONC_DEF: |
+
+# optional
+UNIT_MEASURE: >-
+  units.percentage
+
+DATA_COMP: >
+  Number of students who receive scholarship or aid for low-income
+  ――――――――――――――――――――――――――――――― x 100%
+  Total number of enrolled students
+
+# optional
+COVERAGE: >-

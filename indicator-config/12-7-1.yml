@@ -1,32 +1,76 @@
-﻿composite_breakdown_label: ''
-computation_units: ''
+# optional
+composite_breakdown_label: ''
+# required
+computation_units: units.percentage
+# optional
 copyright: ''
+# optional
 data_footnote: ''
+# required. Specify whether the indicator is statistical
 data_non_statistical: false
+# optional
 data_notice_class: ''
+# optional
 data_notice_heading: ''
+# optional
 data_notice_text: ''
+# optional. Show map tab if configured
 data_show_map: false
+# optional
 data_start_values: []
+# optional
 embedded_feature_footer: ''
+# optional. Required if using embedded feature and not using embedded_feature_url
 embedded_feature_html: ''
+# optional
 embedded_feature_tab_title: ''
+# optional
 embedded_feature_title: ''
+# optional. Required if using embedded feature and not using embedded_feature_html
 embedded_feature_url: ''
+# optional
 expected_disaggregations: []
+# optional
 graph_annotations: []
+# optional
 graph_limits: []
+# optional
 graph_stacked_disaggregation: ''
+# required
 graph_title: global_indicators.12-7-1-title
+# optional. Settings used if chart title depends on user-selected unit of measurement
 graph_titles: []
-graph_type: line
+# required
+graph_type: bar
+# optional. Alternate name for the indicator if it's name is not sufficiently precise
+indicator_available: ''
+# required
 indicator_name: global_indicators.12-7-1-title
+# required
 indicator_number: '12.7.1'
+# optional
 national_geographical_coverage: ''
+# optional
 page_content: ''
+# optional
 permalink: ''
+# optional
 precision: []
+# required. Options: not_available, challenges_remain, approaching_target, target_achieved
+progress_status: not_available
+# optional. List of related indicators if any
+related_indicators: []
+# required. Options: complete, notstarted, notapplicable
 reporting_status: notstarted
+# optional
 sort: ''
+# optional
+source_active_1: true
+source_organisation_1: |
+  Financial Department - Annual reports
+# optional. Alternate way to provide sources
+sources: ''
+# optional. If true the indicator will not be part of a goal (most likely indicators that are not part of the SDGs)
 standalone: false
+# optional. Keywords, useful for filtering the indicator when searching
 tags: []

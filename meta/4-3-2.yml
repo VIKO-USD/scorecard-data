@@ -1,0 +1,34 @@
+# required
+SDG_GOAL: >-
+  global_goals.4-title
+
+# required
+SDG_TARGET: >-
+  global_targets.4-3-title
+
+# required
+SDG_INDICATOR: >-
+  global_indicators.4-3-2-title
+
+# optional
+SDG_INDICATOR_INFO: >-
+
+# optional
+CONTACT_ORGANISATION: >-
+  Viko
+
+# optional
+ORGANISATION_UNIT: >-
+
+# optional
+STAT_CONC_DEF: |
+
+# optional
+UNIT_MEASURE: >-
+  units.total_number
+
+DATA_COMP: |
+  Number of students with functional diversity enrolled every year
+
+# optional
+COVERAGE: >-

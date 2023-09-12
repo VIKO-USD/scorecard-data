@@ -1,0 +1,34 @@
+# required
+SDG_GOAL: >-
+  global_goals.5-title
+
+# required
+SDG_TARGET: >-
+  global_targets.5-1-title
+
+# required
+SDG_INDICATOR: >-
+  global_indicators.5-1-1-title
+
+# optional
+SDG_INDICATOR_INFO: >-
+
+# optional
+CONTACT_ORGANISATION: >-
+  Viko
+
+# optional
+ORGANISATION_UNIT: >-
+
+# optional
+STAT_CONC_DEF: |
+
+# optional
+UNIT_MEASURE: >-
+  units.percentage
+
+DATA_COMP: |
+  Percentage (%) of female from total number of total students
+  
+# optional
+COVERAGE: >-

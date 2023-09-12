@@ -12,11 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Funded",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "State funded",
+                "Non-state funded",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
@@ -24,5 +35,5 @@
   ],
   "profile": "data-package",
   "name": "4-3-1",
-  "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex"
+  "title": "global_indicators.4-3-1-title"
 }

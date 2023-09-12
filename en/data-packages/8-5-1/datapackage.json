@@ -12,12 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "8-5-1",
-  "title": "Average hourly earnings of employees, by sex, age, occupation and persons with disabilities"
+  "title": "Percentage of students who carry out internships within the framework of their studies"
 }

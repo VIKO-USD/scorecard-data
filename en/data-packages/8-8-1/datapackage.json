@@ -12,12 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "8-8-1",
-  "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
+  "title": "Salary difference between the staff with the lowest and highest remuneration"
 }

@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "8-5-2",
-  "title": "Unemployment rate, by sex, age and persons with disabilities"
+  "title": "Employment rate of students graduating at three years"
 }

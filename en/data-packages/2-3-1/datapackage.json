@@ -12,12 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "2-3-1",
-  "title": "Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size"
+  "title": "Number of graduates from study program \"Agribusiness Technologies\""
 }

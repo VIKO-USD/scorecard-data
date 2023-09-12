@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "9-5-1",
-  "title": "Research and development expenditure as a proportion of GDP"
+  "title": "Percentage of the VIKO's annual budget dedicated to research and development (R&D)"
 }

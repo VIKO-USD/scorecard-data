@@ -12,12 +12,24 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "Funded",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "State funded",
+                "Non-state funded",
+                ""
+              ]
+            },
+            "title": "Funded"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -26,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "4-3-1",
-  "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex"
+  "title": "Number of new students (student enrolment)"
 }

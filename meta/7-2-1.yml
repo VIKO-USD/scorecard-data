@@ -1,0 +1,34 @@
+# required
+SDG_GOAL: >-
+  global_goals.7-title
+
+# required
+SDG_TARGET: >-
+  global_targets.7-2-title
+
+# required
+SDG_INDICATOR: >-
+  global_indicators.7-2-1-title
+
+# optional
+SDG_INDICATOR_INFO: >-
+
+# optional
+CONTACT_ORGANISATION: >-
+  Viko
+
+# optional
+ORGANISATION_UNIT: >-
+
+# optional
+STAT_CONC_DEF: |
+
+# optional
+UNIT_MEASURE: >-
+  units.kWh_person
+
+DATA_COMP: |
+  kWh per person
+  
+# optional
+COVERAGE: >-

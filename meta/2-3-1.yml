@@ -28,7 +28,7 @@ UNIT_MEASURE: >-
   units.total_number
 
 DATA_COMP: |
-  Number of graduates of study program "Agribusiness Technologies" (ATF) every year
+  Number of graduates of study program 'Agribusiness Technologies' (ATF) every year
 
 # optional
 COVERAGE: >-

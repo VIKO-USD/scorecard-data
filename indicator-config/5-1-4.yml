@@ -33,7 +33,8 @@ expected_disaggregations: []
 # optional
 graph_annotations: []
 # optional
-graph_limits: []
+graph_limits:
+  - maximum: 100
 # optional
 graph_stacked_disaggregation: ''
 # required

@@ -12,19 +12,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
+            "type": "string"
           },
           {
             "name": "Value",
-            "type": "integer",
-            "title": "Value"
+            "type": "string"
           }
         ]
       }
     }
   ],
   "profile": "data-package",
-  "name": "8-8-1",
-  "title": "Salary difference between the staff with the lowest and highest remuneration"
+  "name": "4-7-5",
+  "title": "global_indicators.5-7-5-title"
 }

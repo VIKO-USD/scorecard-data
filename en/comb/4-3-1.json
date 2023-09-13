@@ -1,1 +1,1 @@
-{"data":{"Year":[2022,2022,2023,2023],"Funded":["State funded","Non-state funded","State funded","Non-state funded"],"Value":[1242,594,1098,609]},"edges":[]}
+{"data":{"Year":["2021-2022","2021-2022","2022-2023","2022-2023"],"Funded":["State funded","Non-state funded","State funded","Non-state funded"],"Value":[1242,594,1098,609]},"edges":[]}

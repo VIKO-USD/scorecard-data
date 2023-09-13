@@ -27,9 +27,11 @@ STAT_CONC_DEF: |
 UNIT_MEASURE: >-
   units.percentage
 
-DATA_COMP: >
+DATA_COMP: |
   Number of students who receive scholarship or aid for low-income
+  
   ――――――――――――――――――――――――――――――― x 100%
+  
   Total number of enrolled students
 
 # optional

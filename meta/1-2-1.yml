@@ -27,8 +27,12 @@ STAT_CONC_DEF: |
 UNIT_MEASURE: >-
   units.ratio
 
-DATA_COMP: >-
-  "Teachers average monthly salary\n―――――――――――――― x 100%\nNational average monthly salary"
+DATA_COMP: |
+  Teachers average monthly salary
+
+  ――――――――――――――― x 100%
+
+  National average monthly salary
 
 # optional
 COVERAGE: >-

@@ -28,7 +28,7 @@ UNIT_MEASURE: >-
   units.total_number
 
 DATA_COMP: |
-  Number of graduates of study program "Dietetics" (SPF) every year
+  Number of graduates of study program 'Dietetics' (SPF) every year
 
 # optional
 COVERAGE: >-

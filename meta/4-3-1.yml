@@ -29,7 +29,6 @@ UNIT_MEASURE: >-
 
 DATA_COMP: |
   Number of students enrolled every year
-  Number by gender
-
+  
 # optional
 COVERAGE: >-

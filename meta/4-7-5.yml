@@ -1,14 +1,14 @@
 # required
 SDG_GOAL: >-
-  global_goals.2-title
+  global_goals.4-title
 
 # required
 SDG_TARGET: >-
-  global_targets.2-3-title
+  global_targets.4-7-title
 
 # required
 SDG_INDICATOR: >-
-  global_indicators.2-3-1-title
+  global_indicators.4-7-5-title
 
 # optional
 SDG_INDICATOR_INFO: >-
@@ -25,10 +25,10 @@ STAT_CONC_DEF: |
 
 # optional
 UNIT_MEASURE: >-
-  units.total_number
+  units.percentage
 
 DATA_COMP: |
-  Number of graduates of study program 'Agribusiness Technologies' (ATF) every year
+  Percentage (%) of the university population who participates in activities that promote education for sustainable development from total population
 
 # optional
 COVERAGE: >-

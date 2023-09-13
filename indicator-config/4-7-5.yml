@@ -1,7 +1,7 @@
 # optional
 composite_breakdown_label: ''
 # required
-computation_units: units.times
+computation_units: units.percentage
 # optional
 copyright: ''
 # optional
@@ -33,11 +33,12 @@ expected_disaggregations: []
 # optional
 graph_annotations: []
 # optional
-graph_limits: []
+graph_limits:
+  - maximum: 100
 # optional
 graph_stacked_disaggregation: ''
 # required
-graph_title: global_indicators.8-5-4-title
+graph_title: global_indicators.4-7-5-title
 # optional. Settings used if chart title depends on user-selected unit of measurement
 graph_titles: []
 # required
@@ -45,9 +46,9 @@ graph_type: bar
 # optional. Alternate name for the indicator if it's name is not sufficiently precise
 indicator_available: ''
 # required
-indicator_name: global_indicators.8-5-4-title
+indicator_name: global_indicators.5-7-5-title
 # required
-indicator_number: '8.5.4'
+indicator_number: '4.7.5'
 # optional
 national_geographical_coverage: ''
 # optional
@@ -57,7 +58,7 @@ permalink: ''
 # optional
 precision: []
 # required. Options: not_available, challenges_remain, approaching_target, target_achieved
-progress_status: challenges_remain
+progress_status: target_achieved
 # optional. List of related indicators if any
 related_indicators: []
 # required. Options: complete, notstarted, notapplicable
@@ -67,7 +68,7 @@ sort: ''
 # optional
 source_active_1: true
 source_organisation_1: |
-  Financial Department
+  Annual reports
 # optional. Alternate way to provide sources
 sources: ''
 # optional. If true the indicator will not be part of a goal (most likely indicators that are not part of the SDGs)

@@ -67,7 +67,7 @@ sort: ''
 # optional
 source_active_1: true
 source_organisation_1: |
-  UPO
+  Regulation - Strategic documents - Student Department - Financial Department - Annual reports
 # optional. Alternate way to provide sources
 sources: ''
 # optional. If true the indicator will not be part of a goal (most likely indicators that are not part of the SDGs)

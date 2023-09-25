@@ -59,7 +59,7 @@ precision: []
 # required. Options: not_available, challenges_remain, approaching_target, target_achieved
 progress_status: challenges_remain
 # optional. List of related targets if any
-related_indicators: ['4.5', '5.1']
+related_indicators: [ '14.1', '5.1']
 # required. Options: complete, notstarted, notapplicable
 reporting_status: complete
 # optional
